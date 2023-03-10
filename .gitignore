@@ -104,6 +104,11 @@ celerybeat.pid
 *.sage.py
 
 # Environments
+./curso_FastApi/venv2
+./curso_FastApi/venv2/*
+.env2
+.venv2
+env2/
 .env
 .venv
 env/
